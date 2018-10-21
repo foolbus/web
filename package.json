@@ -5,11 +5,13 @@
   "dependencies": {
     "axios": "^0.18.0",
     "react": "^16.5.2",
+    "react-codemirror": "^1.0.0",
     "react-dom": "^16.5.2",
     "react-redux": "^5.0.7",
     "react-scripts": "2.0.5",
     "redux": "^4.0.1",
-    "redux-saga": "^0.16.2"
+    "redux-saga": "^0.16.2",
+    "styled-components": "^4.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
